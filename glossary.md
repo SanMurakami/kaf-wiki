@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:05:24.994Z
+date: 2019-08-06T18:06:13.340Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 ## 花譜運営
 一番最初の観測者であり、花譜を見守る親鳥のような存在。
-花譜infomationは是非フォローを
+[花譜 information](https://twitter.com/kaf_info)は是非フォローを
 
 ## 観測者
 花譜ファンの総称
