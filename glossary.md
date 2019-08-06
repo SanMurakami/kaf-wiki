@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:02:18.412Z
+date: 2019-08-06T18:03:08.224Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ tags:
 ## らぷらす
 花譜フードのキャラクター
 
-[過去を喰らう](https://www.youtube.com/watch?v=tMKrECxEpq8)にて泳いでいる
+[#22 過去を喰らう](https://www.youtube.com/watch?v=tMKrECxEpq8)にて泳いでいる
 
 ## 雛鳥
 - 花譜のオリジナル曲 5曲目
@@ -40,7 +40,7 @@ tags:
 
 ## 愛スクリーム
 花譜が今までカバーした楽曲の中から5曲を厳選し収録
-クラウドファンディングのリターンとして特定のコースの支援者に送られたCD
+[クラウドファンディング](https://camp-fire.jp/projects/view/153477)のリターンとして特定のコースの支援者に送られたCD
 
 ## 花と心臓
 配信限定で販売されている楽曲集
