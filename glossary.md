@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:03:08.224Z
+date: 2019-08-06T18:05:24.994Z
 tags: 
 ---
 
@@ -44,11 +44,14 @@ tags:
 
 ## 花と心臓
 配信限定で販売されている楽曲集
+[配信リンク](https://linkco.re/hf6NAvP2)
 
 「糸」「心臓と絡繰」「魔女」が週力されている
 
 ## 観測
 2019年9月11日発売の花譜ファーストアルバム
+[花譜 1st Album「観測α (Aber das ist erst der Anfang.)」](https://kamitsubaki.booth.pm/items/1460188)
+[花譜 1st Album「観測β (Ich habe kein gutes Gefühl dabei.)」](https://kamitsubaki.booth.pm/items/1460435)
 
 α版とβ版があり、CDアルバム「観測」、写真集「透明」、アルバム寄稿文が共通で
 それ以外の同梱商品のデザイン・内容が異なる仕様となっている。
