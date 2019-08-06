@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:01:33.921Z
+date: 2019-08-06T18:02:18.412Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ tags:
 ## らぷらす
 花譜フードのキャラクター
 
-過去を食らうにて泳いでいる
+[過去を喰らう](https://www.youtube.com/watch?v=tMKrECxEpq8)にて泳いでいる
 
 ## 雛鳥
 - 花譜のオリジナル曲 5曲目
