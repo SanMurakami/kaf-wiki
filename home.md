@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2019-08-06T17:43:52.973Z
+date: 2019-08-06T17:53:15.564Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 ## 概要
 
-このページは観測者Discordの有志により作成されているまとめWikiです
+このページは[観測者Discord](https://discord.gg/ZqZS2KN)の有志により作成されているまとめWikiです
 
 公式情報・非公式情報をまとめています
 
