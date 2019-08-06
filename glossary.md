@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:13:18.328Z
+date: 2019-08-06T18:18:12.010Z
 tags: 
 ---
 
@@ -30,8 +30,8 @@ tags:
 [#22 過去を喰らう](https://www.youtube.com/watch?v=tMKrECxEpq8)にて泳いでいる
 
 ## 雛鳥
-- 花譜のオリジナル曲 5曲目
-  - #1, #2, #4のBGM
+- [花譜のオリジナル曲 5曲目](https://www.youtube.com/watch?v=M1RIUrgJqWw)
+  - [#01](https://www.youtube.com/watch?v=LZWPYAqDtGs), [#02](https://www.youtube.com/watch?v=eqovRWVLCic), [#04](https://www.youtube.com/watch?v=BTNFCI4Ue0U)のBGM
 - 制服ではない普段のコスチューム、第一形態
 
 ## 星鴉
