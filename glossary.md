@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:06:13.340Z
+date: 2019-08-06T18:11:24.757Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ tags:
 極まって語彙力を失ってしまった観測者
 
 ## 共犯者
-花譜ファーストライブのクラウドファンディングに関わった人たち
+[花譜ファーストライブのクラウドファンディング](https://camp-fire.jp/projects/view/153477)に関わった人たち
 
 ## 不可解
 花譜ファーストライブの名称
@@ -46,7 +46,7 @@ tags:
 配信限定で販売されている楽曲集
 [配信リンク](https://linkco.re/hf6NAvP2)
 
-「糸」「心臓と絡繰」「魔女」が週力されている
+「[糸](https://www.youtube.com/watch?v=3Wtx6k2vInU)」「[心臓と絡繰](https://www.youtube.com/watch?v=hcm1LGOxJbc)」「[魔女](https://www.youtube.com/watch?v=AqwFHfsAlx0)」が収録されている
 
 ## 観測
 2019年9月11日発売の花譜ファーストアルバム
