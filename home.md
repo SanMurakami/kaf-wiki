@@ -2,14 +2,15 @@
 title: Home
 description: 
 published: true
-date: 2019-08-06T16:46:34.132Z
+date: 2019-08-06T17:06:37.075Z
 tags: 
 ---
 
-# Header
+# 花譜 まとめ Wiki
 
-Your content here
+## 概要
 
-## head2
+このページは観測者Discordの有志により作成されているまとめWikiです
 
-test edit
+公式情報・非公式情報をまとめています
+
