@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2019-08-06T17:06:37.942Z
+date: 2019-08-06T17:43:52.973Z
 tags: 
 ---
 
@@ -14,3 +14,5 @@ tags:
 
 公式情報・非公式情報をまとめています
 
+
+[公式情報](OfficialInfo)
