@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2019-08-06T17:06:37.075Z
+date: 2019-08-06T17:06:37.942Z
 tags: 
 ---
 
