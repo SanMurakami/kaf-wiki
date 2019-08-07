@@ -2,11 +2,12 @@
 title: #06 糸
 description: 
 published: true
-date: 2019-08-07T12:46:59.035Z
+date: 2019-08-07T13:54:15.528Z
 tags: 
 ---
 
 # 花譜 歌詞集
+花譜オリジナル楽曲の歌詞をまとめています。
 
 * [#06 糸](Lyrics06)
 * [#09 心臓と絡繰](Lyrics09)
