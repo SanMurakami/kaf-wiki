@@ -2,7 +2,7 @@
 title: 11 魔女
 description: わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。仮想世界からあなたへうたうよ。
 published: true
-date: 2019-08-07T14:04:18.624Z
+date: 2019-08-07T14:07:16.679Z
 tags: 
 ---
 
@@ -10,6 +10,7 @@ tags:
 
 わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。仮想世界からあなたへうたうよ。
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AqwFHfsAlx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
