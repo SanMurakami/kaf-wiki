@@ -2,7 +2,7 @@
 title: #25 夜が降り止む前に
 description: わたしだけのうた。 みんなとわたしだけのうた。 仮想世界からあなたへ。
 published: true
-date: 2019-08-07T13:09:24.195Z
+date: 2019-08-07T14:06:08.666Z
 tags: 
 ---
 
@@ -10,7 +10,8 @@ tags:
 わたしだけのうた。
 みんなとわたしだけのうた。
 仮想世界からあなたへ。
-[#25　「夜が降り止む前に」 【オリジナルMV】](https://youtu.be/dledRqPTNT8)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dledRqPTNT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
