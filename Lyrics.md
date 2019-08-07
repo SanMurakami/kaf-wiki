@@ -2,7 +2,7 @@
 title: 歌詞集
 description: 
 published: true
-date: 2019-08-07T10:02:18.989Z
+date: 2019-08-07T10:05:42.958Z
 tags: 
 ---
 
@@ -124,6 +124,7 @@ https://youtu.be/hcm1LGOxJbc
 君の言葉も戸惑いも嬉しかったんだ
 ***
 ## #11 魔女
+
 わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。仮想世界からあなたへうたうよ。
 https://youtu.be/AqwFHfsAlx0
 ***
