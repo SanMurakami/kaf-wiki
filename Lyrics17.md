@@ -2,14 +2,15 @@
 title: #17 雛鳥
 description: わたしのはじまりのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。 仮想世界からあなたへ。ただいま。
 published: true
-date: 2019-08-07T13:08:44.594Z
+date: 2019-08-07T14:05:13.202Z
 tags: 
 ---
 
 ## [花譜 歌詞集](Lyrics) ＞ #17 雛鳥
 わたしのはじまりのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。
 仮想世界からあなたへ。ただいま。
-[#17　「雛鳥」 【オリジナルMV】](https://youtu.be/M1RIUrgJqWw)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1RIUrgJqWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
