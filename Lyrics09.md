@@ -2,7 +2,7 @@
 title: #09 心臓と絡繰
 description: わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。ココロを込めたんだ。
 published: true
-date: 2019-08-07T13:07:44.437Z
+date: 2019-08-07T14:03:52.414Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。ココロを込めたんだ。
 尊敬するカンザキイオリさんに創ってもらいました。
 一人でもたくさんの人達に聞いてほしいです。
-[#09　「心臓と絡繰」 【オリジナルMV】](https://youtu.be/hcm1LGOxJbc)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hcm1LGOxJbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 歌唱／花譜
