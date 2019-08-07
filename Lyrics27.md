@@ -2,13 +2,14 @@
 title: #27 そして花になる
 description: たくさんの方々のクラウドファンディングによって産まれた今の私の全てが詰め込まれた楽曲です。
 published: true
-date: 2019-08-07T13:09:39.946Z
+date: 2019-08-07T14:06:28.160Z
 tags: 
 ---
 
 ## [花譜 歌詞集](Lyrics) ＞ #27 そして花になる
 たくさんの方々のクラウドファンディングによって産まれた今の私の全てが詰め込まれた楽曲です。
-[#27 「そして花になる」【オリジナルMV】](https://youtu.be/y6TGSY9Zll0)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y6TGSY9Zll0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
