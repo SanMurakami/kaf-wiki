@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-08-06T18:18:12.010Z
+date: 2019-08-06T18:18:12.937Z
 tags: 
 ---
 
