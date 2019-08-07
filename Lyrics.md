@@ -1,8 +1,8 @@
 ---
-title: #06 糸
-description: 
+title: 花譜 歌詞集
+description: 花譜オリジナル楽曲の歌詞をまとめています。
 published: true
-date: 2019-08-07T13:54:15.528Z
+date: 2019-08-07T13:55:03.643Z
 tags: 
 ---
 
