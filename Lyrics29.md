@@ -2,7 +2,7 @@
 title: #29 quiz
 description: わたしだけのうた。 みんなとわたしだけのうた。 仮想世界からあなたへ。 物語をつむぐよ。
 published: true
-date: 2019-08-07T13:09:53.270Z
+date: 2019-08-07T14:06:49.787Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 みんなとわたしだけのうた。
 仮想世界からあなたへ。
 物語をつむぐよ。
-[#29　「quiz」 【オリジナルMV】](https://youtu.be/n0ov2G-_UvU)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n0ov2G-_UvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 歌唱／花譜
