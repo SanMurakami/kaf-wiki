@@ -2,7 +2,7 @@
 title: #25 夜が降り止む前に
 description: 
 published: true
-date: 2019-08-07T10:55:09.750Z
+date: 2019-08-07T10:57:13.349Z
 tags: 
 ---
 
@@ -11,6 +11,7 @@ tags:
 わたしだけのうた。
 みんなとわたしだけのうた。
 仮想世界からあなたへ。
+https://youtu.be/dledRqPTNT8
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
