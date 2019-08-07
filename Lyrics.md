@@ -1,12 +1,12 @@
 ---
-title: 糸
+title: #06 糸
 description: 
 published: true
-date: 2019-08-07T10:16:48.919Z
+date: 2019-08-07T10:17:15.314Z
 tags: 
 ---
 
-# #06 糸
+# 糸
 
 はじめてのわたしだけのうた。
 https://youtu.be/3Wtx6k2vInU
