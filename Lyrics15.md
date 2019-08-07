@@ -2,14 +2,14 @@
 title: #15 忘れてしまえ
 description: わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。 仮想世界からあなたへココロを込めて。
 published: true
-date: 2019-08-07T13:08:32.143Z
+date: 2019-08-07T14:04:40.669Z
 tags: 
 ---
 
 ## [花譜 歌詞集](Lyrics) ＞ #15 忘れてしまえ
 わたしだけのうた。みんなとわたしだけのうた。この世界の誰かの為のうた。
 仮想世界からあなたへココロを込めて。
-[#15　「忘れてしまえ」 【オリジナルMV】](https://youtu.be/2Nj1l-S2FJU)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2Nj1l-S2FJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
