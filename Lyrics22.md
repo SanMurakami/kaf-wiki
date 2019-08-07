@@ -2,7 +2,7 @@
 title: #22 過去を喰らう
 description: わたしだけのうた。 みんなとわたしだけのうた。 仮想世界からあなたへ。
 published: true
-date: 2019-08-07T13:09:02.791Z
+date: 2019-08-07T14:05:37.404Z
 tags: 
 ---
 
@@ -10,7 +10,8 @@ tags:
 わたしだけのうた。
 みんなとわたしだけのうた。
 仮想世界からあなたへ。
-[#22　「過去を喰らう」 【オリジナルMV】](https://youtu.be/tMKrECxEpq8)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tMKrECxEpq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 歌唱／花譜
 作詞・作曲・編曲／カンザキイオリ
