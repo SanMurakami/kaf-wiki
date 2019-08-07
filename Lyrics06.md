@@ -2,12 +2,11 @@
 title: #06 糸
 description: はじめてのわたしだけのうた。
 published: true
-date: 2019-08-07T12:48:26.872Z
+date: 2019-08-07T13:07:08.453Z
 tags: 
 ---
 
-# 歌詞
-## #06 糸
+## [花譜 歌詞集](Lyrics) ＞ #06 糸
 はじめてのわたしだけのうた。
 [花譜　#06　「糸」 【オリジナルMV】](https://youtu.be/3Wtx6k2vInU)
 ***
