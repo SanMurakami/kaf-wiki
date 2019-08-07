@@ -2,13 +2,14 @@
 title: #06 糸
 description: はじめてのわたしだけのうた。
 published: true
-date: 2019-08-07T13:07:08.453Z
+date: 2019-08-07T13:52:03.352Z
 tags: 
 ---
 
 ## [花譜 歌詞集](Lyrics) ＞ #06 糸
 はじめてのわたしだけのうた。
-[花譜　#06　「糸」 【オリジナルMV】](https://youtu.be/3Wtx6k2vInU)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Wtx6k2vInU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 歌唱／花譜
 作詞･作曲･編曲／カンザキイオリ
