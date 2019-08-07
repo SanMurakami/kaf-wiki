@@ -2,11 +2,12 @@
 title: 歌詞集
 description: 
 published: true
-date: 2019-08-07T10:05:42.958Z
+date: 2019-08-07T10:09:41.170Z
 tags: 
 ---
 
 # 歌詞
+
 ## #06 糸
 はじめてのわたしだけのうた。
 https://youtu.be/3Wtx6k2vInU
