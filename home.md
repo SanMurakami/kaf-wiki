@@ -1,14 +1,12 @@
 ---
-title: Home
+title: 花譜 まとめ Wiki
 description: 
 published: true
-date: 2019-08-06T17:56:14.261Z
+date: 2019-08-07T13:55:46.576Z
 tags: 
 ---
 
-# 花譜 まとめ Wiki
-
-## 概要
+# 概要
 
 このページは[観測者Discord](https://discord.gg/ZqZS2KN)の有志により作成されているまとめWikiです
 
