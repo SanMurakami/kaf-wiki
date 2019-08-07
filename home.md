@@ -17,3 +17,8 @@ tags:
 
 [公式情報](OfficialInfo)
 [非公式](UnofficialInfo)
+[用語集](glossary)
+[花譜 歌詞集](Lyrics)
+
+
+
