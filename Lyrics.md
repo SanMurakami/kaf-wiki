@@ -1,8 +1,8 @@
 ---
-title: 花譜 歌詞集
+title: 歌詞集
 description: 花譜オリジナル楽曲の歌詞をまとめています。
 published: true
-date: 2019-08-16T09:14:16.134Z
+date: 2019-08-22T20:11:35.836Z
 tags: 
 ---
 
