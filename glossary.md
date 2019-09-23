@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-09-23T13:09:00.735Z
+date: 2019-09-23T15:42:37.024Z
 tags: 
 ---
 
@@ -37,7 +37,7 @@ tags:
 通称、特殊歌唱用形態
 
 # 雛鳥黑
-｢TOKYO GAME SHOW 2019｣にて限定先行公開された47ヒロインズとのコラボMVの新衣装
+｢TOKYO GAME SHOW 2019｣にて限定先行公開された47HEROINESとのコラボMVの新衣装
 通称、花譜第一形態
 
 # 瑠璃鶲
