@@ -2,7 +2,7 @@
 title: 歌詞集
 description: 花譜オリジナル楽曲の歌詞をまとめています。
 published: true
-date: 2019-09-17T09:56:59.533Z
+date: 2019-09-24T10:41:44.447Z
 tags: 
 ---
 
@@ -18,3 +18,4 @@ tags:
 * [#30 夜行バスにて](/Lyrics/30_夜行バスにて)
 * [#36 不可解](/Lyrics/36_不可解)
 * [#37 Re:HEROINES](/Lyrics/37_Re:HEROINES)
+* [#38 エリカ](/Lyrics/38_エリカ)
