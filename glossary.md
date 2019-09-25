@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-09-23T15:42:37.024Z
+date: 2019-09-25T05:08:42.521Z
 tags: 
 ---
 
@@ -37,12 +37,13 @@ tags:
 通称、特殊歌唱用形態
 
 # 雛鳥黑
-｢TOKYO GAME SHOW 2019｣にて限定先行公開された47HEROINESとのコラボMVの新衣装
+｢TOKYO GAME SHOW 2019｣にて限定先行公開された
+47HEROINESとのコラボMV[Re:HEROINES](https://youtu.be/tiXLsDQ0uzM)の衣装
 通称、花譜第一形態
 
 # 瑠璃鶲
 FAVRICのための、新たなる特殊歌唱用形態
-3Dデザイナー[Akira Saito](https://twitter.com/a_saito)が花譜のために生み出した"成長を続ける"衣装
+3Dデザイナー[Akira Saito](https://twitter.com/a_saito)が花譜のために生み出した"**成長を続ける**"衣装
 
 # 愛スクリーム
 花譜が今までカバーした楽曲の中から5曲を厳選し収録
