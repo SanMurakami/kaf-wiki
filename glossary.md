@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-09-25T05:08:42.521Z
+date: 2019-10-02T00:44:13.183Z
 tags: 
 ---
 
@@ -32,14 +32,14 @@ tags:
   - [#01](https://www.youtube.com/watch?v=LZWPYAqDtGs), [#02](https://www.youtube.com/watch?v=eqovRWVLCic), [#04](https://www.youtube.com/watch?v=BTNFCI4Ue0U)のBGM
 - 制服ではない普段のコスチューム、第一形態
 
-# 星鴉
-不可解にて発表された新衣装
-通称、特殊歌唱用形態
-
 # 雛鳥黑
 ｢TOKYO GAME SHOW 2019｣にて限定先行公開された
 47HEROINESとのコラボMV[Re:HEROINES](https://youtu.be/tiXLsDQ0uzM)の衣装
 通称、花譜第一形態
+
+# 星鴉
+不可解にて発表された新衣装
+通称、特殊歌唱用形態
 
 # 瑠璃鶲
 FAVRICのための、新たなる特殊歌唱用形態
