@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-10-02T00:44:13.183Z
+date: 2019-10-04T01:44:40.337Z
 tags: 
 ---
 
@@ -27,23 +27,28 @@ tags:
 
 [#22 過去を喰らう](https://www.youtube.com/watch?v=tMKrECxEpq8)にて泳いでいる
 
-# 雛鳥
+# 第一形態
+## 雛鳥
 - [花譜のオリジナル曲 5曲目](https://www.youtube.com/watch?v=M1RIUrgJqWw)
   - [#01](https://www.youtube.com/watch?v=LZWPYAqDtGs), [#02](https://www.youtube.com/watch?v=eqovRWVLCic), [#04](https://www.youtube.com/watch?v=BTNFCI4Ue0U)のBGM
-- 制服ではない普段のコスチューム、第一形態
+- 制服ではない普段のコスチューム
 
-# 雛鳥黑
+## 雛鳥黑
 ｢TOKYO GAME SHOW 2019｣にて限定先行公開された
-47HEROINESとのコラボMV[Re:HEROINES](https://youtu.be/tiXLsDQ0uzM)の衣装
-通称、花譜第一形態
+[川サキ ケンジ](https://twitter.com/Knji__k/status/1174254653384663040)さんによる衣装
+後日、スマートフォン向けシミュレーションRPG『47 HEROINES』の主題歌
+｢HEROINES｣をニューアレンジした[Re:HEROINES](https://youtu.be/tiXLsDQ0uzM)を投稿
+* [Google play](https://play.google.com/store/apps/details?id=jp.co.yunuo.heroines)
+* [AppStore](https://apps.apple.com/jp/app/id1445383793)
+# 特殊歌唱用形態
+## 星鴉
+不可解にて発表された[川サキ ケンジ](https://twitter.com/Knji__k/status/1157931028423401472)さんによる衣装
+この衣装で｢不可解｣｢そして花になる｣の2曲を披露
 
-# 星鴉
-不可解にて発表された新衣装
-通称、特殊歌唱用形態
-
-# 瑠璃鶲
-FAVRICのための、新たなる特殊歌唱用形態
+## 瑠璃鶲
 3Dデザイナー[Akira Saito](https://twitter.com/a_saito)が花譜のために生み出した"**成長を続ける**"衣装
+FAVRICではこの衣装で、｢きみがいいねくれたら(cover)｣｢Plastic Love(cover)｣
+｢魔女(大沼パセリremix)｣の3曲を披露
 
 # 愛スクリーム
 花譜が今までカバーした楽曲の中から5曲を厳選し収録
