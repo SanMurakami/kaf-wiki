@@ -2,7 +2,7 @@
 title: 公式情報
 description: 花譜、花譜 informationおよび関係者からの公式情報のまとめ
 published: true
-date: 2019-08-06T17:35:59.181Z
+date: 2019-10-04T02:46:43.516Z
 tags: 
 ---
 
@@ -14,6 +14,9 @@ tags:
 
 ## 概要
 
-[花譜(@virtual_kaf)](https://twitter.com/virtual_kaf)、
-[花譜 information(@kaf_info)](https://twitter.com/kaf_info)および関係者からの公式情報のまとめ
-
+[Twitter](https://twitter.com/virtual_kaf)
+[Instagram](https://www.instagram.com/virtual_kaf/)
+[YouTube](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A/featured)
+[piapro](https://piapro.jp/virtual_kaf)
+公式インフォメーションアカウント
+[花譜 information](https://twitter.com/kaf_info)
