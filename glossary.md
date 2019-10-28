@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-10-24T20:32:21.077Z
+date: 2019-10-28T07:51:46.610Z
 tags: 
 ---
 
@@ -88,35 +88,35 @@ FAVRICではこの衣装で、｢きみがいいねくれたら(cover)｣｢Plas
 - M14：そして花になる
 - M15：The end of prologue -Instrumental-
 
-# 幼女花譜
-[花譜一周年記念グッズ](https://twitter.com/kaf_info/status/1186567448620761089)のコードネームであり、神椿の最高機密コードネーム
-プロデューサーが多忙により画像の監修を見過ごしてしまい流出
-
-# 未確認少女観測部
-花譜一周年特別番組にて発表された、花譜花譜公式ファンクラブの名称
-12/1より[pixivFANBOX](https://www.pixiv.net/fanbox/creator/44659640)にて始動
-
-# observers
-同じく上記番組内にて発表された、主に花譜グッズを取り扱うブランド
-
-# TPNN by KAF
-正式名称｢**THE PLACE with NO NAME**｣
-`名前すらない未開の土地から、0から新しい価値観を作っていく。`
-observersよりファッション性を重視したブランド
-
-# #花譜美術部
-花譜イラストの為の運営から発表されたハッシュタグ
-PALOW.さんが部長であり顧問の先生…？
-
 # KAMITSUBAKI STUDIO
 花譜や作詞作曲を手掛けるカンザキイオなどが所属する
 YouTube発のクリエイティブレーベル
  - [公式Twitter](https://twitter.com/kamitsubaki_jp)
  - [YouTube channel](https://www.youtube.com/channel/UCAOhUv73jM5iCpOhuJOQzxA)
-
-# PIEDPIPER
+ 
+## PIEDPIPER
 KAMITSUBAKI STUDIO統括プロデューサー
 [花譜](https://twitter.com/virtual_kaf)、[理芽](https://twitter.com/Virtual_rime)、[カンザキイオリ](https://twitter.com/kurogaki0311)のトータルプロデュース
 春猿火、ヰ世界情緒、全所属アーティストの監修など担当している。
 - [公式Twitter](https://twitter.com/PIEDPIPER2045)
 - [note](https://note.mu/futashika)
+ 
+## TPNN by KAF
+正式名称｢**THE PLACE with NO NAME**｣
+`名前すらない未開の土地から、0から新しい価値観を作っていく。`
+observersよりファッション性を重視したブランド
+
+## observers
+同じく上記番組内にて発表された、主に花譜グッズを取り扱うブランド
+
+## 未確認少女観測部
+花譜一周年特別番組にて発表された、花譜花譜公式ファンクラブの名称
+12/1より[pixivFANBOX](https://www.pixiv.net/fanbox/creator/44659640)にて始動
+
+# 幼女花譜
+[花譜一周年記念グッズ](https://twitter.com/kaf_info/status/1186567448620761089)のコードネームであり、神椿の最高機密コードネーム
+プロデューサーが多忙により画像の監修を見過ごしてしまい流出
+
+# #花譜美術部
+花譜イラストの為の運営から発表されたハッシュタグ
+PALOW.さんが部長であり顧問の先生…？
