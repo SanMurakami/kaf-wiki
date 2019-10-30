@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-10-28T07:51:46.610Z
+date: 2019-10-30T13:08:05.381Z
 tags: 
 ---
 
@@ -89,7 +89,7 @@ FAVRICではこの衣装で、｢きみがいいねくれたら(cover)｣｢Plas
 - M15：The end of prologue -Instrumental-
 
 # KAMITSUBAKI STUDIO
-花譜や作詞作曲を手掛けるカンザキイオなどが所属する
+花譜や作詞作曲を手掛けるカンザキイオリなどが所属する
 YouTube発のクリエイティブレーベル
  - [公式Twitter](https://twitter.com/kamitsubaki_jp)
  - [YouTube channel](https://www.youtube.com/channel/UCAOhUv73jM5iCpOhuJOQzxA)
