@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-10-30T13:08:05.381Z
+date: 2019-11-23T19:01:00.604Z
 tags: 
 ---
 
@@ -91,20 +91,21 @@ FAVRICではこの衣装で、｢きみがいいねくれたら(cover)｣｢Plas
 # KAMITSUBAKI STUDIO
 花譜や作詞作曲を手掛けるカンザキイオリなどが所属する
 YouTube発のクリエイティブレーベル
- - [公式Twitter](https://twitter.com/kamitsubaki_jp)
- - [YouTube channel](https://www.youtube.com/channel/UCAOhUv73jM5iCpOhuJOQzxA)
+ - Twitter：https://twitter.com/kamitsubaki_jp
+ - YouTube channel：https://www.youtube.com/channel/UCAOhUv73jM5iCpOhuJOQzxA
  
 ## PIEDPIPER
 KAMITSUBAKI STUDIO統括プロデューサー
 [花譜](https://twitter.com/virtual_kaf)、[理芽](https://twitter.com/Virtual_rime)、[カンザキイオリ](https://twitter.com/kurogaki0311)のトータルプロデュース
 春猿火、ヰ世界情緒、全所属アーティストの監修など担当している。
-- [公式Twitter](https://twitter.com/PIEDPIPER2045)
-- [note](https://note.mu/futashika)
+- 公式Twitter：https://twitter.com/PIEDPIPER2045
+- note：https://note.mu/futashika
  
 ## TPNN by KAF
 正式名称｢**THE PLACE with NO NAME**｣
 `名前すらない未開の土地から、0から新しい価値観を作っていく。`
 observersよりファッション性を重視したブランド
+- BOOTH：https://tpnnbykaf.booth.pm/
 
 ## observers
 同じく上記番組内にて発表された、主に花譜グッズを取り扱うブランド
