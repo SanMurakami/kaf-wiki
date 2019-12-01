@@ -2,7 +2,7 @@
 title: 公式情報
 description: 花譜、花譜 informationおよび関係者からの公式情報のまとめ
 published: true
-date: 2019-12-01T17:08:12.785Z
+date: 2019-12-01T18:28:59.733Z
 tags: 公式情報
 ---
 
@@ -20,6 +20,7 @@ https://sparc.tokyo/count0/
 披露曲：糸 / 心臓と絡繰 / 魔女
 
 ## Mogura VR - VTuber34名が語る！2018年と2019年
+2018/12/31 公開
 https://www.moguravr.com/vtuber-2018-2019/
 Twitter：[Mogra VR News](https://twitter.com/MoguraVR)
 
@@ -34,14 +35,17 @@ https://chokaigi.jp/2019/booth/vtuber_fes.html
 `でますよ。`
 
 ## 映画｢ホットギミック｣主題歌
-山戸結希監督による06/28公開の映画｢ホットギミック ガールミーツボーイ｣
-の主題歌｢夜が降り止む前に｣を花譜が担当
+山戸結希監督による06/28公開の映画｢[ホットギミック ガールミーツボーイ](http://www.hotgimmick-movie.com/)｣
+の主題歌｢[夜が降り止む前に](https://www.youtube.com/watch?v=dledRqPTNT8)｣を花譜が担当
 運営様からの報告と、花譜・カンザキイオリ氏のコメント
 - [花譜 information](https://twitter.com/kaf_info/status/1122999019129597952)
 
 
 ## 花譜1st ONE MAN LIVE『不可解』
 2019/08/01　19:00~　恵比寿LIQUIDROOM
+
+`きょうからあしたのせかいをかえるよ。`
+
 『不可解』を終えて、花譜・運営様の想いと感謝のメッセージ
 - [花譜](https://twitter.com/virtual_kaf/status/1157206946291703808?s=20)
 - [花譜 information](https://twitter.com/kaf_info/status/1157215393666068486)
@@ -85,8 +89,22 @@ NEW COMERで花譜が取り上げられています
 - [特設サイト](https://tyre.dunlop.co.jp/roadtoyou/?utm_source=twitter&utm_medium=promoTweetWCard&utm_campaign=roadtoyou2019)
 - [YouTube](https://www.youtube.com/watch?v=_DidUzA7l_0&feature=youtu.be)
 
+## 花譜1周年記念番組｢花と椿と君。｣
+2019/10/18 放送
+花譜1周年を記念した特別番組が20:00~放送された。
+とても多くのお知らせや発表がありました。
+見ていない方、見逃してしまった方は下のリンクからどうぞ。
+- [YouTube](https://youtu.be/efLaBMZXgHM)
+
+放送終了後、プロデューサー・花譜のコメント
+- [PIEDPIPER](https://twitter.com/PIEDPIPER2045/status/1185170847448752128)
+- [花譜](https://twitter.com/virtual_kaf/status/1185164537122607105)
+
 ## 花譜展
 3.5Dのプロジェクト第一弾　2019/11/22~12/31オープン
+東京都渋谷区宇田川町13-17 ライズビル
+時間：10:00〜21:00
+※入場無料
 花譜に関わるクリエイター達の作品から、一般公募の｢ファンアート｣を展示
 など、詳しい内容は[こちら](https://note.com/futashika/n/n803db37ac3fb)から
 
