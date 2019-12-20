@@ -2,7 +2,7 @@
 title: 歌詞集
 description: 花譜オリジナル楽曲の歌詞をまとめています。
 published: true
-date: 2019-12-20T13:04:56.481Z
+date: 2019-12-20T13:30:16.227Z
 tags: 
 ---
 
