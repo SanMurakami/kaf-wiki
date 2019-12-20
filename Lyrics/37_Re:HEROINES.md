@@ -2,7 +2,7 @@
 title: #37 Re:HEROINES
 description: YUNUO GAMES のスマートフォン向けシミュレーションRPG『47 HEROINES』主題歌「HEROIENS」をニューアレンジした「Re:HEROINES」、花譜と『47 HEROINES』によるコラボミュージックビデオです。
 published: true
-date: 2019-09-17T09:55:57.584Z
+date: 2019-12-20T13:35:24.746Z
 tags: 
 ---
 
