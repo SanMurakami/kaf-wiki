@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-12-25T13:54:22.408Z
+date: 2019-12-25T14:16:07.933Z
 tags: 
 ---
 
@@ -111,10 +111,46 @@ CDアルバムのほかに、スクエアノート、音声劇「御伽噺 -第�
 - M12：不可解（Misumi Remix）
 - M13：そして花になる（syudou Remix）
 
-以下、参加アーティストのYouTubeチャンネル
 ### 参加アーティスト
 - 大沼パセリ
-　[YouTube]()
+　[YouTube](https://www.youtube.com/channel/UCiOOc3UicP_PG1_F2NPs2Ig)
+　[niconico](https://www.nicovideo.jp/mylist/59690246)
+- ピコン
+　[YouTube](https://www.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA/featured)
+　[niconico](https://www.nicovideo.jp/mylist/38652935)
+- 春野
+　[YouTube](https://www.youtube.com/channel/UCXwwHpsOYK6WUxC0R0MaNTw)
+　[niconico](https://www.nicovideo.jp/mylist/56311605)
+- 笹川真生(mao sasagawa)
+　[YouTube](https://www.youtube.com/channel/UCd0oSpX1KiQ0pBl8g4XcwOQ)
+　[niconico](https://www.nicovideo.jp/mylist/37630528)
+- ポリスピカデリー
+　[YouTube](https://www.youtube.com/channel/UCDOTPjUW-NhQMDmYbgMvQKA)
+　[niconico](https://www.nicovideo.jp/mylist/53849103)
+- ろくろ
+　[YouTube](https://www.youtube.com/channel/UC7vxDKqdLffXdbOER_U0Hbw)
+　[niconico](https://www.nicovideo.jp/mylist/58247486)
+- 煮ル果実
+　[YouTube](https://www.youtube.com/channel/UCkltfvjVoojq0BGRt4pmlig)
+　[niconico](https://www.nicovideo.jp/mylist/61000987)
+- ツキミ
+　[YouTube](https://www.youtube.com/channel/UCpLKk1TqiGRqLWcR9_ZcNaA)
+　[niconico](https://www.nicovideo.jp/mylist/60404384)
+- Guiano
+　[YouTube](https://www.youtube.com/channel/UCAwt148qKLXzPF3LHfN76Bw)
+　[niconico](https://www.nicovideo.jp/mylist/47490500)
+- 傘村トータ
+　[YouTube](https://www.youtube.com/channel/UCPKbVouzvWhHeVvy0UbsRCQ)
+　[niconico](https://www.nicovideo.jp/mylist/59797834)
+- samayuzame
+　[YouTube](https://www.youtube.com/user/samayuzame/featured)
+　[niconico](https://www.nicovideo.jp/mylist/37447686)
+- Misumi
+　[YouTube](https://www.youtube.com/channel/UC8c-dBnOuvKsoxSOUihQi0Q)
+　[niconico](https://www.nicovideo.jp/mylist/47637218)
+- syudou
+　[YouTube](https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ)
+　[niconico](https://www.nicovideo.jp/mylist/34911106)
 
 # KAMITSUBAKI STUDIO
 花譜や作詞作曲を手掛けるカンザキイオリなどが所属する
