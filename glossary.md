@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-11-23T19:01:00.604Z
+date: 2019-12-25T13:44:47.542Z
 tags: 
 ---
 
@@ -87,6 +87,13 @@ FAVRICではこの衣装で、｢きみがいいねくれたら(cover)｣｢Plas
 - M13：不可解
 - M14：そして花になる
 - M15：The end of prologue -Instrumental-
+
+# 観測γ
+2019年12月25日発売。9月11日に発売された「観測」のRemix Album
+[花譜 Remix Album「観測γ (Eine Schwalbe macht noch keinen Sommer!)」](https://booth.pm/ja/items/1699114)
+
+13曲を13名のアーティストが1曲ずつリミックスした作品集で
+参加アーティストは、花譜も所属するKAMITSUBAKI STUDIOのGuiano、大沼パセリ、Misumi、samayuzameをはじめ、ピコン、春野、笹川真生、ポリスピカデリー、ろくろ、煮ル果実、ツミキ、傘村トータ、syudouの新世代の才能13名が参加している。
 
 # KAMITSUBAKI STUDIO
 花譜や作詞作曲を手掛けるカンザキイオリなどが所属する
