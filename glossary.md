@@ -2,7 +2,7 @@
 title: 用語集
 description: 
 published: true
-date: 2019-12-25T13:49:11.319Z
+date: 2019-12-25T13:54:22.408Z
 tags: 
 ---
 
@@ -95,6 +95,26 @@ FAVRICではこの衣装で、｢きみがいいねくれたら(cover)｣｢Plas
 13曲を13名のアーティストが1曲ずつリミックスした作品集
 
 CDアルバムのほかに、スクエアノート、音声劇「御伽噺 -第二幕-」、アクリルキーホルダー(穂竹藤丸 Ver.)、ポストカード(PALOW Ver.)、ステッカーγセット、缶バッジγセット、アルバム「観測γ」への寄稿文 (リミックス参加アーティストより)が同梱されている。
+
+## アルバム収録曲
+- M1：糸（大沼パセリ Remix）
+- M2：忘れてしまえ（ピコン Remix）
+- M3：心臓と絡繰（春野 Remix）
+- M4：quiz（笹川真生 Remix）
+- M5：Re:HEROINES（ポリスピカデリー Remix）
+- M6：夜行バスにて（ろくろ Remix）
+- M7：未確認少女進行形（煮ル果実 Remix）
+- M8：過去を喰らう（ツミキ Remix）
+- M9：エリカ（Guiano Remix）
+- M10：雛鳥（傘村トータ Remix）
+- M11：夜が降り止む前に（samayuzame Remix）
+- M12：不可解（Misumi Remix）
+- M13：そして花になる（syudou Remix）
+
+以下、参加アーティストのYouTubeチャンネル
+### 参加アーティスト
+- 大沼パセリ
+　[YouTube]()
 
 # KAMITSUBAKI STUDIO
 花譜や作詞作曲を手掛けるカンザキイオリなどが所属する
