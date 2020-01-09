@@ -2,7 +2,7 @@
 title: 歌詞集
 description: 花譜オリジナル楽曲の歌詞をまとめています。
 published: true
-date: 2019-12-20T13:30:16.227Z
+date: 2020-01-09T04:48:27.053Z
 tags: 
 ---
 
@@ -20,3 +20,4 @@ tags:
 * [#37 Re:HEROINES](/Lyrics/37_Re:HEROINES)
 * [#38 エリカ](/Lyrics/38_エリカ)
 * [#44 未確認少女進行形](/Lyrics/44_未確認少女進行形)
+* [#49 私論理](/Lyrics/49_私論理)
